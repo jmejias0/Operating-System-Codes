@@ -1,0 +1,12 @@
+
+main
+main-tests
+
+run-grader
+grader-output-readme/
+
+*.o
+
+*.json
+
+
