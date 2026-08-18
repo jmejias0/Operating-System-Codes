@@ -1,0 +1,13 @@
+
+*~
+*.o
+
+main
+main-tests
+
+sync*.txt
+
+
+results.json
+
+
